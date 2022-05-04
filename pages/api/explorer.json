@@ -4,7 +4,7 @@
     "assetBundlesFetchUrl": "https://content-assets-as-bundle.decentraland.org/v23"
   },
   "servers": {
-    "contentWhitelist": ["http://localhost"]
+    "contentWhitelist": ["http://localhost", "http://localhost:6969"]
   },
   "minCatalystVersion": "1.0.0",
   "comms": {
